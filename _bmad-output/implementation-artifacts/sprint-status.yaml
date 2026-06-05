@@ -1,0 +1,50 @@
+# generated: 2026-06-03
+# last_updated: 2026-06-03
+# project: yugioh-deck-builder
+# project_key: NOKEY
+# tracking_system: file-system
+# story_location: _bmad-output/implementation-artifacts
+
+# STATUS DEFINITIONS:
+# ==================
+# Epic Status:
+#   - backlog: Epic not yet started
+#   - in-progress: Epic actively being worked on
+#   - done: All stories in epic completed
+#
+# Story Status:
+#   - backlog: Story only exists in epic file
+#   - ready-for-dev: Story file created in stories folder
+#   - in-progress: Developer actively working on implementation
+#   - review: Ready for code review
+#   - done: Story completed
+#
+# Retrospective Status:
+#   - optional: Can be completed but not required
+#   - done: Retrospective has been completed
+
+generated: 2026-06-03
+last_updated: 2026-06-03
+
+development_status:
+  epic-1: done
+  1-1-search-cards-by-name-or-description: done
+  1-2-view-card-details-and-image-on-hover: done
+  epic-1-retrospective: done
+
+  epic-2: done
+  2-1-deck-crud-backend: done
+  2-2-deck-library-ui: done
+  2-3-deck-builder-layout-and-zone-grids: done
+  2-4-drag-and-drop-and-right-click-card-management: done
+  2-5-sort-and-clear-deck: done
+  2-6-save-cover-upload-import-and-export: done
+  epic-2-retrospective: done
+
+  epic-3: in-progress
+  3-1-card-focused-deck-slots: review
+  3-2-repair-right-click-remove: review
+  3-3-drag-reorder-and-remove: review
+  3-4-extra-deck-zone-validation: review
+  3-5-remove-validation-rules: review
+  3-6-prevent-re-renders: review
